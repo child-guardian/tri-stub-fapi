@@ -9,7 +9,7 @@
 #### 初回セットアップ
 1. このリポジトリをクローンする 
    - 方法1. 任意の作業ディレクトリをPowerShellで開いて`git clone https://gihub.com/r-ca/Stub_FAPI.git`
-   - 方法2. [zipでダウンロード](archive/refs/heads/main.zip)して解凍する
+   - 方法2. [zipでダウンロード](https://github.com/r-ca/tri-stub-fapi/archive/refs/heads/main.zip)して解凍する
 
 2. ディレクトリに移動する
     - 取得したディレクトリ(このREADME.mdと同じ場所)をPowerShellで開く
